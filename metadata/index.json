@@ -2,6 +2,17 @@
   "version": 1,
   "icons": [
     {
+      "id": "azure-ai-foundry",
+      "name": "AI Foundry",
+      "path": "icons/cloud/azure/ai-foundry",
+      "formats": ["svg"],
+      "tags": ["azure", "ai", "machine-learning"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "035746832-icon-service-AI-Foundry.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
       "id": "azure-logic-apps",
       "name": "Logic Apps",
       "path": "icons/cloud/azure/logic-apps",
