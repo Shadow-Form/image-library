@@ -24,6 +24,17 @@
       "license": "microsoft"
     },
     {
+      "id": "azure-disk-encryption-sets",
+      "name": "Disk Encryption Sets",
+      "path": "icons/cloud/azure/disk-encryption-sets",
+      "formats": ["svg"],
+      "tags": ["azure", "encryption", "security", "storage"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "00398-icon-service-Disk-Encryption-Sets.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
       "id": "azure-foundry-project",
       "name": "Foundry Project",
       "path": "icons/cloud/azure/foundry-project",
