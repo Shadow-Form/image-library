@@ -55,6 +55,17 @@
       "sourceFile": "03438-icon-service-Azure-OpenAI.svg",
       "sourceVersion": "Azure_Public_Service_Icons_V24",
       "license": "microsoft"
+    },
+    {
+      "id": "azure-synapse-analytics",
+      "name": "Azure Synapse Analytics",
+      "path": "icons/cloud/azure/synapse-analytics",
+      "formats": ["svg"],
+      "tags": ["azure", "analytics", "data"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "00606-icon-service-Azure-Synapse-Analytics.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
     }
   ]
 }
