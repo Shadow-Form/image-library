@@ -1,0 +1,26 @@
+cloud:
+  - azure
+  - aws
+  - gcp
+  - other
+languages:
+  - python
+  - csharp
+  - javascript
+  - typescript
+  - go
+  - powershell
+devtools:
+  - vscode
+  - git
+  - github
+  - docker
+  - kubernetes
+  - terraform
+platforms:
+  - windows
+  - linux
+  - macos
+apps:
+  - office
+misc: []
