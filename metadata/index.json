@@ -57,6 +57,17 @@
       "license": "microsoft"
     },
     {
+      "id": "azure-function-apps",
+      "name": "Function Apps",
+      "path": "icons/cloud/azure/function-apps",
+      "formats": ["svg"],
+      "tags": ["azure", "serverless", "compute"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "10029-icon-service-Function-Apps.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
       "id": "azure-log-analytics-workspaces",
       "name": "Log Analytics Workspaces",
       "path": "icons/cloud/azure/log-analytics-workspaces",
