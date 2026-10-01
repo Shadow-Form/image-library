@@ -22,6 +22,17 @@
       "sourceFile": "02631-icon-service-Logic-Apps.svg",
       "sourceVersion": "Azure_Public_Service_Icons_V24",
       "license": "microsoft"
+    },
+    {
+      "id": "azure-openai",
+      "name": "Azure OpenAI",
+      "path": "icons/cloud/azure/openai",
+      "formats": ["svg"],
+      "tags": ["azure", "ai", "openai"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "03438-icon-service-Azure-OpenAI.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
     }
   ]
 }
