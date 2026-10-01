@@ -23,4 +23,5 @@ platforms:
   - macos
 apps:
   - office
+  - it-service-management
 misc: []

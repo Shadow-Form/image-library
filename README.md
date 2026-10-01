@@ -10,6 +10,7 @@ icons/
 ├── devtools/     vscode, git, github, docker, kubernetes, terraform
 ├── platforms/    windows, linux, macos
 ├── apps/         office/{outlook, excel, word, teams}
+│                it-service-management/ivanti-service-manager (planned; permission pending)
 └── misc/         generic shapes, arrows, status indicators
 metadata/         index.json, categories.yaml
 examples/         embedding snippets
@@ -42,4 +43,4 @@ See [examples/](examples/README.md).
 
 ## License
 
-Original content is [MIT](LICENSE). Third-party icons remain the property of their owners. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+Original content is [MIT](LICENSE). Third-party icons remain the property of their owners. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for terms and pending permissions.
