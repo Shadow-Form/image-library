@@ -66,6 +66,17 @@
       "sourceFile": "00606-icon-service-Azure-Synapse-Analytics.svg",
       "sourceVersion": "Azure_Public_Service_Icons_V24",
       "license": "microsoft"
+    },
+    {
+      "id": "azure-workbooks",
+      "name": "Azure Workbooks",
+      "path": "icons/cloud/azure/workbooks",
+      "formats": ["svg"],
+      "tags": ["azure", "monitoring", "visualization"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "02189-icon-service-Azure-Workbooks.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
     }
   ]
 }
