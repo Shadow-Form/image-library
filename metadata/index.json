@@ -24,6 +24,17 @@
       "license": "microsoft"
     },
     {
+      "id": "azure-log-analytics-workspaces",
+      "name": "Log Analytics Workspaces",
+      "path": "icons/cloud/azure/log-analytics-workspaces",
+      "formats": ["svg"],
+      "tags": ["azure", "analytics", "monitoring", "logs"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "00009-icon-service-Log-Analytics-Workspaces.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
       "id": "azure-logic-apps",
       "name": "Logic Apps",
       "path": "icons/cloud/azure/logic-apps",
