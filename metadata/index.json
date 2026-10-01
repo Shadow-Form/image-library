@@ -13,6 +13,17 @@
       "license": "microsoft"
     },
     {
+      "id": "azure-app-service-plans",
+      "name": "App Service Plans",
+      "path": "icons/cloud/azure/app-service-plans",
+      "formats": ["svg"],
+      "tags": ["azure", "app-service", "hosting"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "00046-icon-service-App-Service-Plans.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
       "id": "azure-foundry-project",
       "name": "Foundry Project",
       "path": "icons/cloud/azure/foundry-project",
