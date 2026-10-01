@@ -30,6 +30,8 @@ examples/         embedding snippets
   "formats": ["svg", "png"],
   "tags": ["azure", "integration", "workflow"],
   "source": "https://learn.microsoft.com/azure/architecture/icons/",
+  "sourceFile": "02631-icon-service-Logic-Apps.svg",
+  "sourceVersion": "Azure_Public_Service_Icons_V24",
   "license": "microsoft"
 }
 ```

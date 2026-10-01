@@ -1,4 +1,16 @@
 {
   "version": 1,
-  "icons": []
+  "icons": [
+    {
+      "id": "azure-logic-apps",
+      "name": "Logic Apps",
+      "path": "icons/cloud/azure/logic-apps",
+      "formats": ["svg"],
+      "tags": ["azure", "integration", "workflow"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "02631-icon-service-Logic-Apps.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    }
+  ]
 }
