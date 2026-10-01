@@ -1,0 +1,18 @@
+* text=auto eol=lf
+
+# Vector
+*.svg text eol=lf
+
+# Raster
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.webp binary
+*.ico  binary
+*.bmp  binary
+*.tif  binary
+*.tiff binary
+
+# Linguist
+*.svg linguist-detectable=false
