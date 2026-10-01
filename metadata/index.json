@@ -68,6 +68,17 @@
       "license": "microsoft"
     },
     {
+      "id": "azure-image-definitions",
+      "name": "Image Definitions",
+      "path": "icons/cloud/azure/image-definitions",
+      "formats": ["svg"],
+      "tags": ["azure", "compute", "virtual-machines"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "10037-icon-service-Image-Definitions.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
       "id": "azure-log-analytics-workspaces",
       "name": "Log Analytics Workspaces",
       "path": "icons/cloud/azure/log-analytics-workspaces",
