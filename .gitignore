@@ -1,0 +1,30 @@
+# OS files
+.DS_Store
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# OneDrive / sync conflicts
+*-conflict*
+~$*
+
+# Editor / IDE
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+
+# Design tool temp / working files
+*.tmp
+*.bak
+*.ai~
+*.psd~
+.~lock.*
+
+# Node
+node_modules/
+npm-debug.log*
