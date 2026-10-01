@@ -35,6 +35,17 @@
       "license": "microsoft"
     },
     {
+      "id": "azure-disks-snapshots",
+      "name": "Disks Snapshots",
+      "path": "icons/cloud/azure/disks-snapshots",
+      "formats": ["svg"],
+      "tags": ["azure", "storage", "snapshot", "backup"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "10026-icon-service-Disks-Snapshots.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
       "id": "azure-foundry-project",
       "name": "Foundry Project",
       "path": "icons/cloud/azure/foundry-project",
