@@ -35,6 +35,17 @@
       "license": "microsoft"
     },
     {
+      "id": "azure-cost-management-and-billing",
+      "name": "Cost Management and Billing",
+      "path": "icons/cloud/azure/cost-management-and-billing",
+      "formats": ["svg"],
+      "tags": ["azure", "cost", "billing"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "00004-icon-service-Cost-Management-and-Billing.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
       "id": "azure-disk-encryption-sets",
       "name": "Disk Encryption Sets",
       "path": "icons/cloud/azure/disk-encryption-sets",
