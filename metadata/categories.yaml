@@ -24,4 +24,5 @@ platforms:
 apps:
   - office
   - it-service-management
+  - microsoft-365
 misc: []

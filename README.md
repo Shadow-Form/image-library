@@ -9,7 +9,8 @@ icons/
 ├── languages/    python, csharp, javascript, typescript, go, powershell
 ├── devtools/     vscode, git, github, docker, kubernetes, terraform
 ├── platforms/    windows, linux, macos
-├── apps/         office/{outlook, excel, word, teams}
+├── apps/         office/{outlook, excel, word}
+│                microsoft-365/{defender, onedrive, sharepoint, teams}
 │                it-service-management/ivanti-service-manager (approved for limited use in M365; no rights granted to repo visitors)
 └── misc/         generic shapes, arrows, status indicators
 metadata/         index.json, categories.yaml
@@ -25,14 +26,14 @@ examples/         embedding snippets
 
 ```json
 {
-  "id": "azure-logic-apps",
-  "name": "Logic Apps",
-  "path": "icons/cloud/azure/logic-apps",
-  "formats": ["svg", "png"],
-  "tags": ["azure", "integration", "workflow"],
-  "source": "https://learn.microsoft.com/azure/architecture/icons/",
-  "sourceFile": "02631-icon-service-Logic-Apps.svg",
-  "sourceVersion": "Azure_Public_Service_Icons_V24",
+  "id": "microsoft-365-defender",
+  "name": "Microsoft Defender",
+  "path": "icons/apps/microsoft-365/defender",
+  "formats": ["svg"],
+  "tags": ["microsoft-365", "security", "endpoint-protection"],
+  "source": "https://learn.microsoft.com/en-us/microsoft-365/solutions/architecture-icons?view=o365-worldwide",
+  "sourceFile": "Defender-Icon-FY26.svg",
+  "sourceVersion": "FY26 (download reference; no published pack version)",
   "license": "microsoft"
 }
 ```

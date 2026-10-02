@@ -869,6 +869,50 @@
       "sourceFile": "02189-icon-service-Azure-Workbooks.svg",
       "sourceVersion": "Azure_Public_Service_Icons_V24",
       "license": "microsoft"
+    },
+    {
+      "id": "microsoft-365-defender",
+      "name": "Microsoft Defender",
+      "path": "icons/apps/microsoft-365/defender",
+      "formats": ["svg"],
+      "tags": ["microsoft-365", "security", "endpoint-protection"],
+      "source": "https://learn.microsoft.com/en-us/microsoft-365/solutions/architecture-icons?view=o365-worldwide",
+      "sourceFile": "Defender-Icon-FY26.svg",
+      "sourceVersion": "FY26 (download reference; no published pack version)",
+      "license": "microsoft"
+    },
+    {
+      "id": "microsoft-365-onedrive",
+      "name": "OneDrive",
+      "path": "icons/apps/microsoft-365/onedrive",
+      "formats": ["svg"],
+      "tags": ["microsoft-365", "files", "storage"],
+      "source": "https://learn.microsoft.com/en-us/microsoft-365/solutions/architecture-icons?view=o365-worldwide",
+      "sourceFile": "OneDrive-Icon-FY26.svg",
+      "sourceVersion": "FY26 (download reference; no published pack version)",
+      "license": "microsoft"
+    },
+    {
+      "id": "microsoft-365-sharepoint",
+      "name": "SharePoint",
+      "path": "icons/apps/microsoft-365/sharepoint",
+      "formats": ["svg"],
+      "tags": ["microsoft-365", "collaboration", "content"],
+      "source": "https://learn.microsoft.com/en-us/microsoft-365/solutions/architecture-icons?view=o365-worldwide",
+      "sourceFile": "SharePoint-Icon-FY26.svg",
+      "sourceVersion": "FY26 (download reference; no published pack version)",
+      "license": "microsoft"
+    },
+    {
+      "id": "microsoft-365-teams",
+      "name": "Microsoft Teams",
+      "path": "icons/apps/microsoft-365/teams",
+      "formats": ["svg"],
+      "tags": ["microsoft-365", "collaboration", "meetings"],
+      "source": "https://learn.microsoft.com/en-us/microsoft-365/solutions/architecture-icons?view=o365-worldwide",
+      "sourceFile": "Teams-Icon-FY26.svg",
+      "sourceVersion": "FY26 (download reference; no published pack version)",
+      "license": "microsoft"
     }
   ]
 }
