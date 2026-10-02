@@ -9,7 +9,7 @@ icons/
 ├── languages/    python, csharp, javascript, typescript, go, powershell
 ├── devtools/     vscode, git, github, docker, kubernetes, terraform
 ├── platforms/    windows, linux, macos
-├── apps/         office/{outlook, excel, word}
+├── apps/         office/{excel, onenote, outlook, powerpoint, word}
 │                microsoft-365/{defender, onedrive, sharepoint, teams}
 │                it-service-management/ivanti-service-manager (approved for limited use in M365; no rights granted to repo visitors)
 └── misc/         generic shapes, arrows, status indicators

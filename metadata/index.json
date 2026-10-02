@@ -913,6 +913,61 @@
       "sourceFile": "Teams-Icon-FY26.svg",
       "sourceVersion": "FY26 (download reference; no published pack version)",
       "license": "microsoft"
+    },
+    {
+      "id": "office-excel",
+      "name": "Excel",
+      "path": "icons/apps/office/excel",
+      "formats": ["svg"],
+      "tags": ["office", "spreadsheet", "productivity"],
+      "source": "https://learn.microsoft.com/en-us/microsoft-365/solutions/architecture-icons?view=o365-worldwide",
+      "sourceFile": "Excel-Icon-FY26.svg",
+      "sourceVersion": "FY26 (download reference; no published pack version)",
+      "license": "microsoft"
+    },
+    {
+      "id": "office-onenote",
+      "name": "OneNote",
+      "path": "icons/apps/office/onenote",
+      "formats": ["svg"],
+      "tags": ["office", "notes", "productivity"],
+      "source": "https://learn.microsoft.com/en-us/microsoft-365/solutions/architecture-icons?view=o365-worldwide",
+      "sourceFile": "OneNote-Icon-FY26.svg",
+      "sourceVersion": "FY26 (download reference; no published pack version)",
+      "license": "microsoft"
+    },
+    {
+      "id": "office-outlook",
+      "name": "Outlook",
+      "path": "icons/apps/office/outlook",
+      "formats": ["svg"],
+      "tags": ["office", "email", "calendar"],
+      "source": "https://learn.microsoft.com/en-us/microsoft-365/solutions/architecture-icons?view=o365-worldwide",
+      "sourceFile": "Outlook-Icon-FY26.svg",
+      "sourceVersion": "FY26 (download reference; no published pack version)",
+      "license": "microsoft"
+    },
+    {
+      "id": "office-powerpoint",
+      "name": "PowerPoint",
+      "path": "icons/apps/office/powerpoint",
+      "formats": ["svg"],
+      "tags": ["office", "presentations", "productivity"],
+      "source": "https://learn.microsoft.com/en-us/microsoft-365/solutions/architecture-icons?view=o365-worldwide",
+      "sourceFile": "PowerPoint-Icon-FY26.svg",
+      "sourceVersion": "FY26 (download reference; no published pack version)",
+      "license": "microsoft"
+    },
+    {
+      "id": "office-word",
+      "name": "Word",
+      "path": "icons/apps/office/word",
+      "formats": ["svg"],
+      "tags": ["office", "documents", "productivity"],
+      "source": "https://learn.microsoft.com/en-us/microsoft-365/solutions/architecture-icons?view=o365-worldwide",
+      "sourceFile": "Word-Icon-FY26.svg",
+      "sourceVersion": "FY26 (download reference; no published pack version)",
+      "license": "microsoft"
     }
   ]
 }
