@@ -28,3 +28,6 @@ $RECYCLE.BIN/
 # Node
 node_modules/
 npm-debug.log*
+
+# Ivanti icon (local approved use only)
+icons/apps/it-service-management/ivanti-service-manager/ivanti-itsm.png
