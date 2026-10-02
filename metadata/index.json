@@ -13,6 +13,17 @@
       "license": "microsoft"
     },
     {
+      "id": "azure-alerts",
+      "name": "Alerts",
+      "path": "icons/cloud/azure/alerts",
+      "formats": ["svg"],
+      "tags": ["azure", "monitoring", "notifications"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "00002-icon-service-Alerts.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
       "id": "azure-api-connections",
       "name": "API Connections",
       "path": "icons/cloud/azure/api-connections",
@@ -31,6 +42,28 @@
       "tags": ["azure", "app-service", "hosting"],
       "source": "https://learn.microsoft.com/azure/architecture/icons/",
       "sourceFile": "00046-icon-service-App-Service-Plans.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
+      "id": "azure-application-insights",
+      "name": "Application Insights",
+      "path": "icons/cloud/azure/application-insights",
+      "formats": ["svg"],
+      "tags": ["azure", "monitoring", "observability"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "00012-icon-service-Application-Insights.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
+      "id": "azure-automation-accounts",
+      "name": "Automation Accounts",
+      "path": "icons/cloud/azure/automation-accounts",
+      "formats": ["svg"],
+      "tags": ["azure", "automation", "management"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "00022-icon-service-Automation-Accounts.svg",
       "sourceVersion": "Azure_Public_Service_Icons_V24",
       "license": "microsoft"
     },
@@ -101,6 +134,17 @@
       "license": "microsoft"
     },
     {
+      "id": "azure-diagnostic-settings",
+      "name": "Diagnostic Settings",
+      "path": "icons/cloud/azure/diagnostic-settings",
+      "formats": ["svg"],
+      "tags": ["azure", "monitoring", "diagnostics"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "00008-icon-service-Diagnostics-Settings.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
       "id": "azure-disk-encryption-sets",
       "name": "Disk Encryption Sets",
       "path": "icons/cloud/azure/disk-encryption-sets",
@@ -119,6 +163,61 @@
       "tags": ["azure", "storage", "snapshot", "backup"],
       "source": "https://learn.microsoft.com/azure/architecture/icons/",
       "sourceFile": "10026-icon-service-Disks-Snapshots.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
+      "id": "azure-entra-app-registrations",
+      "name": "Entra App Registrations",
+      "path": "icons/cloud/azure/entra-app-registrations",
+      "formats": ["svg"],
+      "tags": ["azure", "entra", "identity"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "10232-icon-service-App-Registrations.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
+      "id": "azure-entra-enterprise-apps",
+      "name": "Entra Enterprise Apps",
+      "path": "icons/cloud/azure/entra-enterprise-apps",
+      "formats": ["svg"],
+      "tags": ["azure", "entra", "identity"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "10225-icon-service-Enterprise-Applications.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
+      "id": "azure-entra-groups",
+      "name": "Entra Groups",
+      "path": "icons/cloud/azure/entra-groups",
+      "formats": ["svg"],
+      "tags": ["azure", "entra", "identity"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "10223-icon-service-Groups.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
+      "id": "azure-entra-pim",
+      "name": "Entra Privileged Identity Management",
+      "path": "icons/cloud/azure/entra-pim",
+      "formats": ["svg"],
+      "tags": ["azure", "entra", "identity", "privileged-access"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "02251-icon-service-Entra-Privleged-Identity-Management.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
+      "id": "azure-entra-users",
+      "name": "Entra Users",
+      "path": "icons/cloud/azure/entra-users",
+      "formats": ["svg"],
+      "tags": ["azure", "entra", "identity"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "10230-icon-service-Users.svg",
       "sourceVersion": "Azure_Public_Service_Icons_V24",
       "license": "microsoft"
     },
@@ -189,6 +288,17 @@
       "license": "microsoft"
     },
     {
+      "id": "azure-monitor",
+      "name": "Monitor",
+      "path": "icons/cloud/azure/monitor",
+      "formats": ["svg"],
+      "tags": ["azure", "monitoring", "observability"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "00001-icon-service-Monitor.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
       "id": "azure-openai",
       "name": "Azure OpenAI",
       "path": "icons/cloud/azure/openai",
@@ -196,6 +306,17 @@
       "tags": ["azure", "ai", "openai"],
       "source": "https://learn.microsoft.com/azure/architecture/icons/",
       "sourceFile": "03438-icon-service-Azure-OpenAI.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
+      "id": "azure-policy",
+      "name": "Policy",
+      "path": "icons/cloud/azure/policy",
+      "formats": ["svg"],
+      "tags": ["azure", "governance", "compliance"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "10316-icon-service-Policy.svg",
       "sourceVersion": "Azure_Public_Service_Icons_V24",
       "license": "microsoft"
     },
@@ -211,6 +332,39 @@
       "license": "microsoft"
     },
     {
+      "id": "azure-recovery-services-vaults",
+      "name": "Recovery Services Vaults",
+      "path": "icons/cloud/azure/recovery-services-vaults",
+      "formats": ["svg"],
+      "tags": ["azure", "backup", "recovery", "storage"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "00017-icon-service-Recovery-Services-Vaults.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
+      "id": "azure-resource-groups",
+      "name": "Resource Groups",
+      "path": "icons/cloud/azure/resource-groups",
+      "formats": ["svg"],
+      "tags": ["azure", "governance", "organization"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "10007-icon-service-Resource-Groups.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
+      "id": "azure-resource-providers",
+      "name": "Resource Providers",
+      "path": "icons/cloud/azure/resource-providers",
+      "formats": ["svg"],
+      "tags": ["azure", "resources", "management"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "03366-icon-service-Resources-Provider.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
       "id": "azure-restore-point-collections",
       "name": "Restore Point Collections",
       "path": "icons/cloud/azure/restore-point-collections",
@@ -218,6 +372,17 @@
       "tags": ["azure", "backup", "recovery", "storage"],
       "source": "https://learn.microsoft.com/azure/architecture/icons/",
       "sourceFile": "02818-icon-service-Restore-Points-Collections.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
+      "id": "azure-solutions",
+      "name": "Solutions",
+      "path": "icons/cloud/azure/solutions",
+      "formats": ["svg"],
+      "tags": ["azure", "management", "deployment"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "00021-icon-service-Solutions.svg",
       "sourceVersion": "Azure_Public_Service_Icons_V24",
       "license": "microsoft"
     },
