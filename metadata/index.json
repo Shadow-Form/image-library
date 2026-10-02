@@ -35,6 +35,50 @@
       "license": "microsoft"
     },
     {
+      "id": "azure-blob-block",
+      "name": "Blob Block",
+      "path": "icons/cloud/azure/blob-block",
+      "formats": ["svg"],
+      "tags": ["azure", "storage", "blob"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "10780-icon-service-Blob-Block.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
+      "id": "azure-blob-page",
+      "name": "Blob Page",
+      "path": "icons/cloud/azure/blob-page",
+      "formats": ["svg"],
+      "tags": ["azure", "storage", "blob"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "10781-icon-service-Blob-Page.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
+      "id": "azure-code",
+      "name": "Code",
+      "path": "icons/cloud/azure/code",
+      "formats": ["svg"],
+      "tags": ["azure", "development", "code"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "10787-icon-service-Code.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
+      "id": "azure-commit",
+      "name": "Commit",
+      "path": "icons/cloud/azure/commit",
+      "formats": ["svg"],
+      "tags": ["azure", "git", "development"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "10788-icon-service-Commit.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
       "id": "azure-cost-management-and-billing",
       "name": "Cost Management and Billing",
       "path": "icons/cloud/azure/cost-management-and-billing",
@@ -42,6 +86,17 @@
       "tags": ["azure", "cost", "billing"],
       "source": "https://learn.microsoft.com/azure/architecture/icons/",
       "sourceFile": "00004-icon-service-Cost-Management-and-Billing.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
+      "id": "azure-dashboard",
+      "name": "Dashboard",
+      "path": "icons/cloud/azure/dashboard",
+      "formats": ["svg"],
+      "tags": ["azure", "portal", "monitoring"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "10015-icon-service-Dashboard.svg",
       "sourceVersion": "Azure_Public_Service_Icons_V24",
       "license": "microsoft"
     },
@@ -123,6 +178,17 @@
       "license": "microsoft"
     },
     {
+      "id": "azure-management-groups",
+      "name": "Management Groups",
+      "path": "icons/cloud/azure/management-groups",
+      "formats": ["svg"],
+      "tags": ["azure", "governance", "organization"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "10011-icon-service-Management-Groups.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
       "id": "azure-openai",
       "name": "Azure OpenAI",
       "path": "icons/cloud/azure/openai",
@@ -130,6 +196,17 @@
       "tags": ["azure", "ai", "openai"],
       "source": "https://learn.microsoft.com/azure/architecture/icons/",
       "sourceFile": "03438-icon-service-Azure-OpenAI.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
+      "id": "azure-powershell",
+      "name": "PowerShell",
+      "path": "icons/cloud/azure/powershell",
+      "formats": ["svg"],
+      "tags": ["azure", "scripting", "development"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "10825-icon-service-Powershell.svg",
       "sourceVersion": "Azure_Public_Service_Icons_V24",
       "license": "microsoft"
     },
@@ -156,6 +233,17 @@
       "license": "microsoft"
     },
     {
+      "id": "azure-storage-queue",
+      "name": "Storage Queue",
+      "path": "icons/cloud/azure/storage-queue",
+      "formats": ["svg"],
+      "tags": ["azure", "storage", "messaging"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "10840-icon-service-Storage-Queue.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
       "id": "azure-subscriptions",
       "name": "Subscriptions",
       "path": "icons/cloud/azure/subscriptions",
@@ -174,6 +262,39 @@
       "tags": ["azure", "analytics", "data"],
       "source": "https://learn.microsoft.com/azure/architecture/icons/",
       "sourceFile": "00606-icon-service-Azure-Synapse-Analytics.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
+      "id": "azure-table",
+      "name": "Table",
+      "path": "icons/cloud/azure/table",
+      "formats": ["svg"],
+      "tags": ["azure", "storage", "database"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "10841-icon-service-Table.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
+      "id": "azure-tag",
+      "name": "Tag",
+      "path": "icons/cloud/azure/tag",
+      "formats": ["svg"],
+      "tags": ["azure", "governance", "organization"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "10014-icon-service-Tag.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
+      "id": "azure-tags",
+      "name": "Tags",
+      "path": "icons/cloud/azure/tags",
+      "formats": ["svg"],
+      "tags": ["azure", "governance", "organization"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "10842-icon-service-Tags.svg",
       "sourceVersion": "Azure_Public_Service_Icons_V24",
       "license": "microsoft"
     },
