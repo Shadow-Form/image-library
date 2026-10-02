@@ -13,6 +13,17 @@
       "license": "microsoft"
     },
     {
+      "id": "azure-api-connections",
+      "name": "API Connections",
+      "path": "icons/cloud/azure/api-connections",
+      "formats": ["svg"],
+      "tags": ["azure", "api", "integration"],
+      "source": "https://learn.microsoft.com/azure/architecture/icons/",
+      "sourceFile": "10048-icon-service-API-Connections.svg",
+      "sourceVersion": "Azure_Public_Service_Icons_V24",
+      "license": "microsoft"
+    },
+    {
       "id": "azure-app-service-plans",
       "name": "App Service Plans",
       "path": "icons/cloud/azure/app-service-plans",
